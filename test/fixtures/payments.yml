@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pay_id: MyString
+  signature: MyString
+  verified: false
+  order_id: MyString
+
+two:
+  pay_id: MyString
+  signature: MyString
+  verified: false
+  order_id: MyString
